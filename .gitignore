@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+outputs/
+data/
+
+trainingscripts/
+
+score.py
+
+myenv.yml

@@ -1,0 +1,9 @@
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Krusty.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Bart.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Flanders.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Homer.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Lisa.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/marge.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Milhouse.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/MrBurns.jpg
+https://raw.githubusercontent.com/hnky/dataset-lego-figures/master/_test/Wiggum.jpg
