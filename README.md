@@ -13,4 +13,4 @@
 -  [](?WT.mc_id=blog-10910-heboelma)
 
 ### Learn more about PyTorch
-- - [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html?WT.mc_id=blog-10910-heboelma)
+- [Transfer Learning for Computer Vision Tutorial](https://pytorch.org/tutorials/beginner/transfer_learning_tutorial.html?WT.mc_id=blog-10910-heboelma)
