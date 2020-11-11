@@ -1,4 +1,4 @@
-# Azure Machine Learning - Transfer Learning with PyTorch
+# Build and deploy PyTorch models with Azure Machine Learning
 
 
 
